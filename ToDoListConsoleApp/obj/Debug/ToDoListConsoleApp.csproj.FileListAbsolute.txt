@@ -1,0 +1,7 @@
+D:\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\Quest.io-App-Project\ToDoListConsoleApp\bin\Debug\ToDoListConsoleApp.exe.config
+D:\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\Quest.io-App-Project\ToDoListConsoleApp\bin\Debug\ToDoListConsoleApp.exe
+D:\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\Quest.io-App-Project\ToDoListConsoleApp\bin\Debug\ToDoListConsoleApp.pdb
+D:\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\Quest.io-App-Project\ToDoListConsoleApp\obj\Debug\ToDoListConsoleApp.csproj.AssemblyReference.cache
+D:\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\Quest.io-App-Project\ToDoListConsoleApp\obj\Debug\ToDoListConsoleApp.csproj.CoreCompileInputs.cache
+D:\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\Quest.io-App-Project\ToDoListConsoleApp\obj\Debug\ToDoListConsoleApp.exe
+D:\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\Quest.io-App-Project\ToDoListConsoleApp\obj\Debug\ToDoListConsoleApp.pdb
