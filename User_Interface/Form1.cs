@@ -72,6 +72,5 @@ namespace User_Interface
             descTextBox.Text = "";
             isEditting = false;
         }
-
     }
 }

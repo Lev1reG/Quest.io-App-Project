@@ -39,6 +39,8 @@
             this.saveButton = new System.Windows.Forms.Button();
             this.delButton = new System.Windows.Forms.Button();
             this.questView = new System.Windows.Forms.DataGridView();
+            this.deadlineBox = new System.Windows.Forms.DateTimePicker();
+            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.questView)).BeginInit();
             this.SuspendLayout();
             // 
@@ -92,7 +94,7 @@
             // 
             this.newButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(114)))), ((int)(((byte)(124)))));
             this.newButton.Font = new System.Drawing.Font("Verdana", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.newButton.Location = new System.Drawing.Point(12, 329);
+            this.newButton.Location = new System.Drawing.Point(11, 463);
             this.newButton.Name = "newButton";
             this.newButton.Size = new System.Drawing.Size(405, 50);
             this.newButton.TabIndex = 5;
@@ -104,7 +106,7 @@
             // 
             this.editButton.BackColor = System.Drawing.Color.Gold;
             this.editButton.Font = new System.Drawing.Font("Verdana", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.editButton.Location = new System.Drawing.Point(423, 329);
+            this.editButton.Location = new System.Drawing.Point(422, 463);
             this.editButton.Name = "editButton";
             this.editButton.Size = new System.Drawing.Size(405, 50);
             this.editButton.TabIndex = 6;
@@ -116,7 +118,7 @@
             // 
             this.saveButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(131)))), ((int)(((byte)(167)))), ((int)(((byte)(117)))));
             this.saveButton.Font = new System.Drawing.Font("Verdana", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.saveButton.Location = new System.Drawing.Point(1247, 329);
+            this.saveButton.Location = new System.Drawing.Point(1246, 463);
             this.saveButton.Name = "saveButton";
             this.saveButton.Size = new System.Drawing.Size(405, 50);
             this.saveButton.TabIndex = 7;
@@ -128,7 +130,7 @@
             // 
             this.delButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(176)))), ((int)(((byte)(95)))), ((int)(((byte)(102)))));
             this.delButton.Font = new System.Drawing.Font("Verdana", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.delButton.Location = new System.Drawing.Point(834, 329);
+            this.delButton.Location = new System.Drawing.Point(833, 463);
             this.delButton.Name = "delButton";
             this.delButton.Size = new System.Drawing.Size(405, 50);
             this.delButton.TabIndex = 8;
@@ -142,12 +144,29 @@
             this.questView.BackgroundColor = System.Drawing.Color.WhiteSmoke;
             this.questView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.questView.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(185)))), ((int)(((byte)(163)))), ((int)(((byte)(126)))));
-            this.questView.Location = new System.Drawing.Point(12, 394);
+            this.questView.Location = new System.Drawing.Point(12, 519);
             this.questView.Name = "questView";
             this.questView.RowHeadersWidth = 62;
             this.questView.RowTemplate.Height = 28;
-            this.questView.Size = new System.Drawing.Size(1640, 598);
+            this.questView.Size = new System.Drawing.Size(1640, 473);
             this.questView.TabIndex = 9;
+            // 
+            // deadlineBox
+            // 
+            this.deadlineBox.Font = new System.Drawing.Font("Verdana", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.deadlineBox.Location = new System.Drawing.Point(12, 369);
+            this.deadlineBox.Name = "deadlineBox";
+            this.deadlineBox.Size = new System.Drawing.Size(367, 32);
+            this.deadlineBox.TabIndex = 0;
+            // 
+            // label2
+            // 
+            this.label2.Font = new System.Drawing.Font("Verdana", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(12, 341);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(143, 25);
+            this.label2.TabIndex = 10;
+            this.label2.Text = "Deadline: ";
             // 
             // Quest_Io
             // 
@@ -155,6 +174,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(185)))), ((int)(((byte)(163)))), ((int)(((byte)(126)))));
             this.ClientSize = new System.Drawing.Size(1664, 1004);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.deadlineBox);
             this.Controls.Add(this.questView);
             this.Controls.Add(this.delButton);
             this.Controls.Add(this.saveButton);
@@ -187,6 +208,8 @@
         private System.Windows.Forms.Button saveButton;
         private System.Windows.Forms.Button delButton;
         private System.Windows.Forms.DataGridView questView;
+        private System.Windows.Forms.DateTimePicker deadlineBox;
+        private System.Windows.Forms.Label label2;
     }
 }
 
