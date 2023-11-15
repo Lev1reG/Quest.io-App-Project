@@ -1,0 +1,6 @@
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD\bin\Debug\SimpleCRUD.dll
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD\bin\Debug\SimpleCRUD.pdb
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD\obj\Debug\SimpleCRUD.csproj.AssemblyReference.cache
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD\obj\Debug\SimpleCRUD.csproj.CoreCompileInputs.cache
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD\obj\Debug\SimpleCRUD.dll
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD\obj\Debug\SimpleCRUD.pdb

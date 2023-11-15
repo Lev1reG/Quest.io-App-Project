@@ -1,0 +1,11 @@
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD2\bin\Debug\net6.0\SimpleCRUD2.deps.json
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD2\bin\Debug\net6.0\SimpleCRUD2.dll
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD2\bin\Debug\net6.0\SimpleCRUD2.pdb
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD2\obj\Debug\net6.0\SimpleCRUD2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD2\obj\Debug\net6.0\SimpleCRUD2.AssemblyInfoInputs.cache
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD2\obj\Debug\net6.0\SimpleCRUD2.AssemblyInfo.cs
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD2\obj\Debug\net6.0\SimpleCRUD2.csproj.CoreCompileInputs.cache
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD2\obj\Debug\net6.0\SimpleCRUD2.dll
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD2\obj\Debug\net6.0\refint\SimpleCRUD2.dll
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD2\obj\Debug\net6.0\SimpleCRUD2.pdb
+D:\Fawwaz\College\Academic\PBO\Tugas Akhir\SimpleCRUD2\obj\Debug\net6.0\ref\SimpleCRUD2.dll

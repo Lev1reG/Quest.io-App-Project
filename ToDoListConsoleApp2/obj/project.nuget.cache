@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Re74wC6XS2maXOlijlnKoDxNmY4RSesplyv/0G77V6SSGX10E56AFPYpoLfzJCvcbRhNxslL1pq+lzSMRQwFvg==",
+  "success": true,
+  "projectFilePath": "D:\\Fawwaz\\College\\Academic\\PBO\\Tugas Akhir\\ToDoListConsoleApp2\\ToDoListConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\questio_consolereadline\\1.0.1\\questio_consolereadline.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

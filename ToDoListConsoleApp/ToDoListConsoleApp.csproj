@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SimpleCRUD\SimpleCRUD.csproj">
+      <Project>{5a610d46-eeac-440c-8c8c-41955856e596}</Project>
+      <Name>SimpleCRUD</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

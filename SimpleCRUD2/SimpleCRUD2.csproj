@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>QuestIO_ConsoleReadLine</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>ConsoleReadLine</Authors>
+  </PropertyGroup>
+
+</Project>
