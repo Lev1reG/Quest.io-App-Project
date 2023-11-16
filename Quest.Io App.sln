@@ -5,9 +5,9 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User_Interface", "User_Interface\User_Interface.csproj", "{0DA99C64-6CCB-48C0-B3F4-5B3B56301E2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCRUD2", "SimpleCRUD2\SimpleCRUD2.csproj", "{F609B62C-E2DC-4830-9D85-2A26637D0B53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleCRUD", "SimpleCRUD2\SimpleCRUD.csproj", "{F609B62C-E2DC-4830-9D85-2A26637D0B53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListConsoleApp2", "ToDoListConsoleApp2\ToDoListConsoleApp2.csproj", "{B7E4877F-1DF4-40C4-93F0-47292642810D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoListConsoleApp", "ToDoListConsoleApp2\ToDoListConsoleApp.csproj", "{B7E4877F-1DF4-40C4-93F0-47292642810D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
