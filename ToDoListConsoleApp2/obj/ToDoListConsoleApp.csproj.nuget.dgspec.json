@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\ToDoListConsoleApp2\\ToDoListConsoleApp2.csproj": {}
+    "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\ToDoListConsoleApp2\\ToDoListConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\ToDoListConsoleApp2\\ToDoListConsoleApp2.csproj": {
+    "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\ToDoListConsoleApp2\\ToDoListConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\ToDoListConsoleApp2\\ToDoListConsoleApp2.csproj",
-        "projectName": "ToDoListConsoleApp2",
-        "projectPath": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\ToDoListConsoleApp2\\ToDoListConsoleApp2.csproj",
+        "projectUniqueName": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\ToDoListConsoleApp2\\ToDoListConsoleApp.csproj",
+        "projectName": "ToDoListConsoleApp",
+        "projectPath": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\ToDoListConsoleApp2\\ToDoListConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Deren\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\ToDoListConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",

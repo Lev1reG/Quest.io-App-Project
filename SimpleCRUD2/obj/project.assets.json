@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\Deren\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "D:\\Fawwaz\\College\\Academic\\PBO\\Tugas Akhir\\SimpleCRUD2\\SimpleCRUD2.csproj",
+      "projectUniqueName": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\SimpleCRUD2\\SimpleCRUD.csproj",
       "projectName": "QuestIO_ConsoleReadLine",
-      "projectPath": "D:\\Fawwaz\\College\\Academic\\PBO\\Tugas Akhir\\SimpleCRUD2\\SimpleCRUD2.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Fawwaz\\College\\Academic\\PBO\\Tugas Akhir\\SimpleCRUD2\\obj\\",
+      "projectPath": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\SimpleCRUD2\\SimpleCRUD.csproj",
+      "packagesPath": "C:\\Users\\Deren\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\SimpleCRUD2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Deren\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

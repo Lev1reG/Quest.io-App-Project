@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\ToDoListConsoleApp2\\ToDoListConsoleApp2.csproj": {}
+    "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\SimpleCRUD2\\SimpleCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\ToDoListConsoleApp2\\ToDoListConsoleApp2.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\SimpleCRUD2\\SimpleCRUD.csproj": {
+      "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\ToDoListConsoleApp2\\ToDoListConsoleApp2.csproj",
-        "projectName": "ToDoListConsoleApp2",
-        "projectPath": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\ToDoListConsoleApp2\\ToDoListConsoleApp2.csproj",
+        "projectUniqueName": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\SimpleCRUD2\\SimpleCRUD.csproj",
+        "projectName": "QuestIO_ConsoleReadLine",
+        "projectPath": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\SimpleCRUD2\\SimpleCRUD.csproj",
         "packagesPath": "C:\\Users\\Deren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\ToDoListConsoleApp2\\obj\\",
+        "outputPath": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\SimpleCRUD2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Deren\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "QuestIO_ConsoleReadLine": {
-              "target": "Package",
-              "version": "[1.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

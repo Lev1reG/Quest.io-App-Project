@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Re74wC6XS2maXOlijlnKoDxNmY4RSesplyv/0G77V6SSGX10E56AFPYpoLfzJCvcbRhNxslL1pq+lzSMRQwFvg==",
+  "dgSpecHash": "ch6QkILJUx/qQ3l8j/WHRCDy6W2qcnXctgHKaQE5iT8x7eyO8OBBXQG9o8xApPpX/hFu8f4Qq5mrATt8xFImwA==",
   "success": true,
-  "projectFilePath": "D:\\Fawwaz\\College\\Academic\\PBO\\Tugas Akhir\\ToDoListConsoleApp2\\ToDoListConsoleApp2.csproj",
+  "projectFilePath": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Quest.io\\Quest.Io App\\ToDoListConsoleApp2\\ToDoListConsoleApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ASUS\\.nuget\\packages\\questio_consolereadline\\1.0.1\\questio_consolereadline.1.0.1.nupkg.sha512"
+    "C:\\Users\\Deren\\.nuget\\packages\\questio_consolereadline\\1.0.1\\questio_consolereadline.1.0.1.nupkg.sha512"
   ],
   "logs": []
 }
