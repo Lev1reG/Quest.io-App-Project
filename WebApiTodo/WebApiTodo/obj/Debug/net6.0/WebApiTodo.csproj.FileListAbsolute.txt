@@ -1,0 +1,90 @@
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\appsettings.json
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\WebApiTodo.exe
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\WebApiTodo.deps.json
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\WebApiTodo.runtimeconfig.json
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\WebApiTodo.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\WebApiTodo.pdb
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\DnsClient.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\Snappier.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.AssemblyInfo.cs
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\staticwebassets\msbuild.WebApiTodo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiTodo.props
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiTodo.props
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiTodo.props
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\scopedcss\bundle\WebApiTodo.styles.css
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.csproj.CopyComplete
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\refint\WebApiTodo.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.pdb
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.genruntimeconfig.cache
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\MATKUL\C# OOP\Project-PBO\ASP\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\ref\WebApiTodo.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\appsettings.json
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\WebApiTodo.exe
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\WebApiTodo.deps.json
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\WebApiTodo.runtimeconfig.json
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\WebApiTodo.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\WebApiTodo.pdb
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\DnsClient.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\Snappier.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.AssemblyInfo.cs
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\staticwebassets\msbuild.WebApiTodo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiTodo.props
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiTodo.props
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiTodo.props
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\scopedcss\bundle\WebApiTodo.styles.css
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.csproj.CopyComplete
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\refint\WebApiTodo.dll
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.pdb
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\WebApiTodo.genruntimeconfig.cache
+C:\Users\acer\OneDrive - UGM 365\Documents\Backup_Data\Ngoding\ngoding santuy\PROJECT\WebAPI-ASP\WebApiTodo\WebApiTodo\obj\Debug\net6.0\ref\WebApiTodo.dll
