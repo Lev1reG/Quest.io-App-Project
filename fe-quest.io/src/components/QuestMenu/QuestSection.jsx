@@ -7,7 +7,7 @@ const QuestSection = ({ OpenSection, part }) => {
     <>
       <div className="z-10 absolute flex w-full justify-center items-center">
         <div className="relative 2xl:w-[1536px] w-[85%] aspect-[1640/983] flex flex-col justify-center items-center">
-          <div className="absolute -z-10 w-full h-full">
+          <div className="absolute -z-10 w-[85.4167%] aspect-[1640/983]">
             <Image
               src="/QuestList/background-quest-list.png"
               fill
@@ -16,7 +16,7 @@ const QuestSection = ({ OpenSection, part }) => {
               draggable="false"
             />
           </div>
-          <div className="absolute top-[7%] w-full flex justify-end">
+          <div className="absolute top-[12%] w-[85.4167%] flex justify-end">
             <img
               src="/QuestList/exit-icon.png"
               className="w-[5%] aspect-[89/86] cursor-pointer"
