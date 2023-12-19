@@ -1,15 +1,10 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { MdOutlineCheckBoxOutlineBlank } from "react-icons/md";
-import { MdCheckBox } from "react-icons/md";
-import axios from "axios";
-import { useRouter } from "next/navigation";
+import { useRouter } from "next/router";
 
-const QuestTable = () => {
-  const [quests, setQuests] = useState(null);
+const QuestTable = ({ openForm, edit }) => {
   const router = useRouter();
-
   const getQuests = async () => {
     const response = await fetch("https://localhost:7189/api/Todos");
     const data = await response.json();
@@ -22,22 +17,6 @@ const QuestTable = () => {
   if (!quests) {
     return <div>Loading...</div>;
   }
-
-  const deleteQuest = async (id) => {
-    const result = window.confirm("Are you sure want to delete this task?");
-    if (result) {
-      try {
-        const response = await axios.delete(
-          `https://localhost:7189/api/Todos/${id}`
-        );
-        getQuests();
-        console.log(response.data);
-      } catch (err) {
-        console.error("Error deleting data : ", err);
-      }
-    }
-  };
-
   const finishTask = async (quest, desc, dl, id) => {
     const result = window.confirm(
       "Are you sure want to finish this task king?"
@@ -63,7 +42,29 @@ const QuestTable = () => {
     router.refresh();
     getQuests();
   };
+  const deleteQuest = async (id) => {
+    const result = window.confirm("Are you sure want to delete this task?");
+    if (result) {
+      try {
+        const response = await axios.delete(
+          `https://localhost:7189/api/Todos/${id}`
+        );
+        getQuests();
+        console.log(response.data);
+      } catch (err) {
+        console.error("Error deleting data : ", err);
+      }
+    }
+  };
+  const handleEditButton = async (quest, desc, dl, id) => {
+    setOpenQuestForm((prev) => !prev);
+    setEdit(true);
 
+    setEditQuest(quest);
+    setEditDesc(desc);
+    setEditDl(dl);
+    setEditId(id);
+  };
   return (
     <>
       <table className="font-PixelifySans text-[#7A3E12]">
@@ -99,6 +100,9 @@ const QuestTable = () => {
                   src="/QuestList/edit-icon.png"
                   className="w-[65%]"
                   draggable="false"
+                  onClick={() => {
+                    handleEditButton(item.quest, item.desc, item.dl, item.id);
+                  }}
                 />
               </td>
               <td className="">

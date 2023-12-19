@@ -1,6 +1,7 @@
 "use client";
 
-import QuestList from "@/components/QuestListMenu/QuestList.jsx";
+import QuestSection from "@/components/QuestMenu/QuestSection.jsx";
+import QuestList from "@/components/QuestMenu/QuestList";
 import { useState } from "react";
 
 export default function Home() {
@@ -17,7 +18,10 @@ export default function Home() {
         TOMBOL BUKA QUEST LIST
       </p>
       {openQuestList ? (
-        <QuestList OpenQuestList={() => setOpenQuestList((prev) => !prev)} />
+        <QuestSection
+          OpenSection={() => setOpenQuestList((prev) => !prev)}
+          part={<QuestList />}
+        />
       ) : null}
     </main>
   );
