@@ -25,3 +25,17 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+@layer base {
+  @font-face {
+    font-family: "arcadeclassic";
+    src: url("/fonts/ArcadeClassic/ARCADECLASSIC.ttf") format("truetype");
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "PixelifySans";
+    src: url("/fonts/PixelifySans/PixelifySans-Regular.ttf") format("truetype");
+    font-display: swap;
+  }
+}
