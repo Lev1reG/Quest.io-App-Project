@@ -3,9 +3,12 @@
 import { useEffect, useState } from "react";
 import { MdOutlineCheckBoxOutlineBlank } from "react-icons/md";
 import { MdCheckBox } from "react-icons/md";
+import axios from "axios";
+import { useRouter } from "next/navigation";
 
 const QuestTable = () => {
   const [quests, setQuests] = useState(null);
+  const router = useRouter();
 
   const getQuests = async () => {
     const response = await fetch("https://localhost:7189/api/Todos");
@@ -19,6 +22,47 @@ const QuestTable = () => {
   if (!quests) {
     return <div>Loading...</div>;
   }
+
+  const deleteQuest = async (id) => {
+    const result = window.confirm("Are you sure want to delete this task?");
+    if (result) {
+      try {
+        const response = await axios.delete(
+          `https://localhost:7189/api/Todos/${id}`
+        );
+        getQuests();
+        console.log(response.data);
+      } catch (err) {
+        console.error("Error deleting data : ", err);
+      }
+    }
+  };
+
+  const finishTask = async (quest, desc, dl, id) => {
+    const result = window.confirm(
+      "Are you sure want to finish this task king?"
+    );
+    if (result) {
+      try {
+        const response = await axios.put(
+          `https://localhost:7189/api/Todos/${id}`,
+          {
+            id: id,
+            quest: quest,
+            desc: desc,
+            dl: dl,
+            done: true,
+          }
+        );
+        getQuests();
+        console.log(response.data);
+      } catch (err) {
+        console.error("Error updating data : ", err);
+      }
+    }
+    router.refresh();
+    getQuests();
+  };
 
   return (
     <>
@@ -36,15 +80,34 @@ const QuestTable = () => {
               <td className="px-3 py-2">{item.quest}</td>
               <td className="px-3 py-2">{item.desc}</td>
               <td className="px-3 py-2">{item.dl}</td>
-              <td className="text-center">
+              <td className="text-center px-2">
                 {item.done ? (
-                  <MdCheckBox className="text-[#7A3E12] w-[100%]" />
+                  <MdCheckBox className="text-[#7A3E12] w-[120%] h-[120%]" />
                 ) : (
-                  <MdOutlineCheckBoxOutlineBlank className="text-[#7A3E12] w-[100%]" />
+                  <button type=" submit">
+                    <MdOutlineCheckBoxOutlineBlank
+                      className="text-[#7A3E12] w-[120%] h-[120%] cursor-pointer"
+                      onClick={() =>
+                        finishTask(item.quest, item.desc, item.dl, item.id)
+                      }
+                    />
+                  </button>
                 )}
               </td>
-              <td className="px-2">
-                <img src="/QuestList/edit-icon.png" className="w-[65%]" />
+              <td className="pl-2">
+                <img
+                  src="/QuestList/edit-icon.png"
+                  className="w-[65%]"
+                  draggable="false"
+                />
+              </td>
+              <td className="">
+                <img
+                  src="/QuestList/trash-icon.png"
+                  className="w-[65%] cursor-pointer"
+                  draggable="false"
+                  onClick={() => deleteQuest(item.id)}
+                />
               </td>
             </tr>
           ))}
