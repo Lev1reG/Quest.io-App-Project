@@ -11,7 +11,7 @@ const Profile = () => {
         background: "url(/MapCover/bg-profile.png)",
         backgroundSize: "contain",
       }}
-      className="absolute top-[1.3%] left-[1.198%] flex justify-start items-center w-[28%] aspect-[539/130] hover:scale-105"
+      className="absolute top-[1.3%] left-[1.198%] flex justify-start items-center w-[28%] aspect-[539/130] hover:scale-105 bg-no-repeat"
     >
       <div className="flex flex-row justify-center items-center w-[62.337%] aspect-[336/81.45] ">
         <Item
