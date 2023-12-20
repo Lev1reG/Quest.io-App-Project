@@ -74,7 +74,7 @@ const QuestTable = ({
           className="absolute w-full aspect-[5/1]"
           draggable="false"
         />
-        <p className="z-10 font-ArcadeClassic text-[#7A3E12] text-[25px]">
+        <p className="z-10 font-ArcadeClassic text-[#7A3E12] text-[20px]">
           CREATE QUEST
         </p>
       </button>
