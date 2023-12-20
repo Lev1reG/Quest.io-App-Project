@@ -5,6 +5,7 @@ import { MdCheckBox } from "react-icons/md";
 import axios from "axios";
 import QuestTable from "./QuestTable";
 import QuestSettings from "./QuestSettings";
+import Loading from "../Loading/Loading";
 
 const QuestMenu = () => {
   const [openQuestForm, setOpenQuestForm] = useState(false);
@@ -26,7 +27,7 @@ const QuestMenu = () => {
   }, []);
 
   if (!quests) {
-    return <div>Loading...</div>;
+    return <Loading />;
   }
 
   const deleteQuest = async (id) => {
@@ -45,7 +46,14 @@ const QuestMenu = () => {
   };
 
   const postQuest = async (e) => {
-    if (editQuest === "") {
+    if (
+      editQuest === "" ||
+      editQuest === null ||
+      editDesc === "" ||
+      editDesc === null ||
+      editDl === "" ||
+      editDl === null
+    ) {
       e.preventDefault();
       alert("Please fill the form");
     } else {
@@ -60,6 +68,9 @@ const QuestMenu = () => {
         console.log(response.data);
         alert("Data has been succesfully submitted");
         setOpenQuestForm((prev) => !prev);
+        setEditQuest("");
+        setEditDesc("");
+        setEditDl("");
       } catch (err) {
         console.error("Error posting data : ", err);
       }
@@ -67,7 +78,14 @@ const QuestMenu = () => {
   };
 
   const updateQuest = async (id, e) => {
-    if (editQuest === "") {
+    if (
+      editQuest === "" ||
+      editQuest === null ||
+      editDesc === "" ||
+      editDesc === null ||
+      editDl === "" ||
+      editDl === null
+    ) {
       e.preventDefault();
       alert("Please fill the form");
     } else {
@@ -87,6 +105,9 @@ const QuestMenu = () => {
         console.log(response.data);
         alert("Data has been succesfully updated");
         setOpenQuestForm((prev) => !prev);
+        setEditQuest("");
+        setEditDesc("");
+        setEditDl("");
       } catch (err) {
         console.error("Error updating data : ", err);
       }
