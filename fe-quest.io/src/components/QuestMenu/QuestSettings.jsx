@@ -63,7 +63,7 @@ const QuestSettings = ({
       </form>
       <div className="flex flex-row justify-center items-center w-full gap-8">
         <button
-          className="relative flex w-[20%] items-center justify-center"
+          className="relative flex w-[20%] items-center justify-center hover:scale-105 hover:brightness-125 transition-all duration-300 ease-in-out"
           onClick={Edit ? (e) => UpdateQuest(ValueID, e) : (e) => PostQuest(e)}
         >
           <img
@@ -76,7 +76,7 @@ const QuestSettings = ({
           </p>
         </button>
         <button
-          className="relative flex w-[20%] items-center justify-center"
+          className="relative flex w-[20%] items-center justify-center hover:scale-105 hover:brightness-125 transition-all duration-300 ease-in-out"
           onClick={HandleButton}
         >
           <img
