@@ -1,86 +1,34 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import { useRouter } from "next/router";
+import { MdOutlineCheckBoxOutlineBlank } from "react-icons/md";
+import { MdCheckBox } from "react-icons/md";
 
-const QuestTable = ({ openForm, edit }) => {
-  const router = useRouter();
-  const getQuests = async () => {
-    const response = await fetch("https://localhost:7189/api/Todos");
-    const data = await response.json();
-    setQuests(data);
-  };
-  useEffect(() => {
-    getQuests();
-  }, []);
-
-  if (!quests) {
-    return <div>Loading...</div>;
-  }
-  const finishTask = async (quest, desc, dl, id) => {
-    const result = window.confirm(
-      "Are you sure want to finish this task king?"
-    );
-    if (result) {
-      try {
-        const response = await axios.put(
-          `https://localhost:7189/api/Todos/${id}`,
-          {
-            id: id,
-            quest: quest,
-            desc: desc,
-            dl: dl,
-            done: true,
-          }
-        );
-        getQuests();
-        console.log(response.data);
-      } catch (err) {
-        console.error("Error updating data : ", err);
-      }
-    }
-    router.refresh();
-    getQuests();
-  };
-  const deleteQuest = async (id) => {
-    const result = window.confirm("Are you sure want to delete this task?");
-    if (result) {
-      try {
-        const response = await axios.delete(
-          `https://localhost:7189/api/Todos/${id}`
-        );
-        getQuests();
-        console.log(response.data);
-      } catch (err) {
-        console.error("Error deleting data : ", err);
-      }
-    }
-  };
-  const handleEditButton = async (quest, desc, dl, id) => {
-    setOpenQuestForm((prev) => !prev);
-    setEdit(true);
-
-    setEditQuest(quest);
-    setEditDesc(desc);
-    setEditDl(dl);
-    setEditId(id);
-  };
+const QuestTable = ({
+  Quests,
+  FinishTask,
+  HandleEditButton,
+  DeleteQuest,
+  SetOpenQuestForm,
+}) => {
   return (
-    <>
+    <div className="flex flex-col justify-center items-center bg-[#FCF7A5] gap-y-5 p-3">
+      <h1 className="font-ArcadeClassic text-[#7A3E12] text-[50px]">
+        QUESTS LIST
+      </h1>
       <table className="font-PixelifySans text-[#7A3E12]">
         <thead>
           <tr>
-            <th className="px-4 py-2">Quests</th>
-            <th className="px-3 py-2">Desc</th>
-            <th className="px-3 py-2">Deadline</th>
+            <th className="px-2 py-2">Quests</th>
+            <th className="px-2 py-2">Desc</th>
+            <th className="px-2 py-2">Deadline</th>
           </tr>
         </thead>
         <tbody>
-          {quests.map((item, index) => (
+          {Quests.map((item, index) => (
             <tr key={index}>
-              <td className="px-3 py-2">{item.quest}</td>
-              <td className="px-3 py-2">{item.desc}</td>
-              <td className="px-3 py-2">{item.dl}</td>
+              <td className="px-2 py-2">{item.quest}</td>
+              <td className="px-2 py-2">{item.desc}</td>
+              <td className="px-2 py-2">{item.dl}</td>
               <td className="text-center px-2">
                 {item.done ? (
                   <MdCheckBox className="text-[#7A3E12] w-[120%] h-[120%]" />
@@ -89,7 +37,7 @@ const QuestTable = ({ openForm, edit }) => {
                     <MdOutlineCheckBoxOutlineBlank
                       className="text-[#7A3E12] w-[120%] h-[120%] cursor-pointer"
                       onClick={() =>
-                        finishTask(item.quest, item.desc, item.dl, item.id)
+                        FinishTask(item.quest, item.desc, item.dl, item.id)
                       }
                     />
                   </button>
@@ -101,7 +49,7 @@ const QuestTable = ({ openForm, edit }) => {
                   className="w-[65%]"
                   draggable="false"
                   onClick={() => {
-                    handleEditButton(item.quest, item.desc, item.dl, item.id);
+                    HandleEditButton(item.quest, item.desc, item.dl, item.id);
                   }}
                 />
               </td>
@@ -110,14 +58,27 @@ const QuestTable = ({ openForm, edit }) => {
                   src="/QuestList/trash-icon.png"
                   className="w-[65%] cursor-pointer"
                   draggable="false"
-                  onClick={() => deleteQuest(item.id)}
+                  onClick={() => DeleteQuest(item.id)}
                 />
               </td>
             </tr>
           ))}
         </tbody>
       </table>
-    </>
+      <button
+        className="relative flex w-[20%] items-center justify-center p-"
+        onClick={SetOpenQuestForm}
+      >
+        <img
+          src="/QuestList/button.png"
+          className="absolute w-full aspect-[5/1]"
+          draggable="false"
+        />
+        <p className="z-10 font-ArcadeClassic text-[#7A3E12] text-[25px]">
+          CREATE QUEST
+        </p>
+      </button>
+    </div>
   );
 };
 

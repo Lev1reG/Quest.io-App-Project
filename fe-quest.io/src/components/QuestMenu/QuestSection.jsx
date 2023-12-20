@@ -16,7 +16,7 @@ const QuestSection = ({ OpenSection, part }) => {
               draggable="false"
             />
           </div>
-          <div className="absolute top-[8.5%] w-[85.4167%] flex justify-end">
+          <div className="absolute top-[12%] w-[85.4167%] flex justify-end">
             <img
               src="/QuestList/exit-icon.png"
               className="w-[5%] aspect-[89/86] cursor-pointer"

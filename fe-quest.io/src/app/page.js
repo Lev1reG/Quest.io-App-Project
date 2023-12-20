@@ -1,9 +1,10 @@
 "use client";
 import { useState, useEffect } from "react";
 import QuestSection from "@/components/QuestMenu/QuestSection.jsx";
-import QuestList from "@/components/QuestMenu/QuestList";
+import QuestList from "@/components/QuestMenu/QuestMenu";
 import Loading from "@/components/Loading/Loading";
 import Image from "next/image";
+import QuestMenu from "@/components/QuestMenu/QuestMenu";
 
 export default function Home() {
   const [openQuestList, setOpenQuestList] = useState(false);
@@ -143,7 +144,7 @@ export default function Home() {
           {openQuestList ? (
             <QuestSection
               OpenSection={() => setOpenQuestList((prev) => !prev)}
-              part={<QuestList />}
+              part={<QuestMenu />}
             />
           ) : null}
         </main>
