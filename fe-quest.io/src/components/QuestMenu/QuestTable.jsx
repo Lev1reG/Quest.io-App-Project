@@ -46,7 +46,7 @@ const QuestTable = ({
               <td className="pl-2">
                 <img
                   src="/QuestList/edit-icon.png"
-                  className="w-[65%]"
+                  className="w-[65%] cursor-pointer"
                   draggable="false"
                   onClick={() => {
                     HandleEditButton(item.quest, item.desc, item.dl, item.id);
@@ -66,7 +66,7 @@ const QuestTable = ({
         </tbody>
       </table>
       <button
-        className="relative flex w-[20%] items-center justify-center p-"
+        className="relative flex w-[20%] items-center justify-center hover:scale-105 hover:brightness-125 transition-all duration-300 ease-in-out"
         onClick={SetOpenQuestForm}
       >
         <img
