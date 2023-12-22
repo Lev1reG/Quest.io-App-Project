@@ -49,7 +49,7 @@ B. Menggunakan SSH\
 ### 2) Install Packages
 1. Buka Terminal
 2. Pergi ke folder `fe-quest.io`
-3. Jalankan command di bawah ini
+3. Jalankan command di bawah ini\
 `npm i`
 
 ### 3) Jalankan Web API
